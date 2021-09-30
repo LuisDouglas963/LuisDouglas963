@@ -15,7 +15,7 @@ I'm 23 years old, and for 5 years I worked in the administrative area, focused o
  <div>
   <a href="https://github.com/LuisDouglas963">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisDouglas963&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDouglas963&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDouglas963&layout=compact&langs_count=7&theme=tokyonight"/>
   
    
 </div>
