@@ -3,7 +3,7 @@
 
 ## I'm Luis,
 
-I'm 23 years old, and for 5 years I worked in the administrative area, focused on the financial sector. I always wanted to learn programming and decided to start studying in a self-taught way a month ago.
+I'm 23 years old, and for 5 years I worked in the administrative area, focusing on the financial sector. I always wanted to learn programming and decided to start studying in a self-taught way two months ago.
 
 <strong>Student analysis and systems development - 1st semester.<strong/>
 
