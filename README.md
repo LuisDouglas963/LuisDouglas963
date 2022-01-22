@@ -1,11 +1,11 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+#  Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 ## I'm Luis,
 
-I'm 23 years old, and for 5 years I worked in the administrative area, focusing on the financial sector. I always wanted to learn programming and decided to start studying in a self-taught way two months ago.
+I'm 23 years old and I'm a System Development Analysis student. I am currently an intern as a front-end developer. In my free time I like to develop personal projects to improve my technical skills.
 
-<strong>Student analysis and systems development - 1st semester.<strong/>
+
 
 
 
@@ -20,13 +20,15 @@ I'm 23 years old, and for 5 years I worked in the administrative area, focusing 
    
 </div>
   
-   <strong>I'm Studying<strong/> 👨🏽‍🎓
+ 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="NUXT" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="JEST" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg">
+  <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   
 </div>
@@ -43,11 +45,7 @@ I'm 23 years old, and for 5 years I worked in the administrative area, focusing 
  
  
 </div>
-  
-  <div>
-<img align="right" alt="Luis-yoda" src="https://s7.favim.com/orig/150121/adorable-cute-gif-green-Favim.com-2406607.gif" width="50" height="65">
 
-</div>
 
  
 
