@@ -40,7 +40,7 @@ I'm 23 years old and I'm a System Development Analysis student. I am currently a
   <div> 
     
    <a href="https://www.linkedin.com/in/luis-douglas-ab82b392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/luis.douglas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
    <a href="https://t.me/Luis_DouglasR" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
  
