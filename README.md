@@ -3,8 +3,7 @@
 
 ## I'm Luis,
 
-I'm 24 years old and I'm a System Development Analysis student. I am currently an intern as a front-end developer. In my free time I like to develop personal projects to improve my technical skills.
-
+Tenho 24 anos e sou estudante de Análise de Desenvolvimento de Sistemas. Atualmente sou estagiário como desenvolvedor front-end. No meu tempo livre gosto de desenvolver projetos pessoais para melhorar minhas habilidades técnicas.
 
 
 
