@@ -11,14 +11,28 @@
 
  
 ## I'm Luis,
-
-Tenho 24 anos e sou estudante de Análise de Desenvolvimento de Sistemas. Atualmente sou estagiário como desenvolvedor front-end. No meu tempo livre gosto de desenvolver projetos pessoais para melhorar minhas habilidades técnicas.
-
-
+I'm 24 years old and I'm a System Development Analysis student. I am currently an intern as a front-end developer. In my spare time I like to develop personal projects to improve technical skills.
 
 
 ##
 
+## Tech Skils
+</div>
+  
+  
+  <div style="display: inline_block"><br>
+   
+   <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
+  <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
+  <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
+  <img align="center" alt="Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-
+  <img align="center" alt="React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg">-
+  <img align="center" alt="JEST" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg">
+
+  
+</div>
+
+##
 
  <div>
   <a href="https://github.com/LuisDouglas963">
@@ -28,21 +42,7 @@ Tenho 24 anos e sou estudante de Análise de Desenvolvimento de Sistemas. Atualm
    
 </div>
   
-  <div style="display: inline_block"><br>
-   
-   <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="JEST" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg">
 
-
-  
-</div>
-    
-  
-  ##
   
   <div> 
     
