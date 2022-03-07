@@ -1,6 +1,15 @@
+<image src="https://s7.gifyu.com/images/github-gif.gif" />
+  
+  <div align="center">
+  <a href="https://www.linkedin.com/in/luis-douglas-ab82b392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://t.me/Luis_DouglasR" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ </div>
+ </center>
+   <hr/>
+
 #  Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-
+ 
 ## I'm Luis,
 
 Tenho 24 anos e sou estudante de Análise de Desenvolvimento de Sistemas. Atualmente sou estagiário como desenvolvedor front-end. No meu tempo livre gosto de desenvolver projetos pessoais para melhorar minhas habilidades técnicas.
@@ -37,8 +46,7 @@ Tenho 24 anos e sou estudante de Análise de Desenvolvimento de Sistemas. Atualm
   
   <div> 
     
-   <a href="https://www.linkedin.com/in/luis-douglas-ab82b392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://t.me/Luis_DouglasR" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+
 
  
  
