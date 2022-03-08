@@ -41,17 +41,8 @@ I'm 24 years old and I'm a System Development Analysis student. I am currently a
   
    
 </div>
-  
 
-  
-  <div> 
-    
-
-
- 
- 
-</div>
-
+![Snake animation](https://github.com/LuisDouglas963/LuisDouglas963/blob/output/github-contribution-grid-snake.svg)
 
  
 
