@@ -7,7 +7,7 @@
  </center>
    <hr/>
 
-#  Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+#  Hello world!
 
  
 ## I'm Luis,
