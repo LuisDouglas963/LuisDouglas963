@@ -11,7 +11,7 @@
 
  
 ## I'm Luis,
-I'm 24 years old and I'm a System Development Analysis student. I am currently an intern as a front-end developer. In my spare time I like to develop personal projects to improve technical skills.
+I'm 24 years old and I'm a System Development Analysis student. I'm currently a front-end developer. In my spare time I like to develop personal projects to improve technical skills.
 
 
 ##
@@ -42,7 +42,7 @@ I'm 24 years old and I'm a System Development Analysis student. I am currently a
    
 </div>
 
-![Snake animation](https://github.com/LuisDouglas963/LuisDouglas963/blob/output/github-contribution-grid-snake.svg)
+
 
  
 
