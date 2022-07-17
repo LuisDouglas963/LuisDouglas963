@@ -16,7 +16,7 @@ I'm 24 years old and I'm a System Development Analysis student. I'm currently a 
 
 ##
 
-## Tech Skils
+## Languages and Tools:
 </div>
   
   
@@ -25,8 +25,11 @@ I'm 24 years old and I'm a System Development Analysis student. I'm currently a 
    <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">- 
   <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">- 
   <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - 
-  <img align="center" alt="Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -
-  <img align="center" alt="React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg"> -
+    <img align="center" alt="Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -
+  <img align="center" alt="Ts" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> - 
+        <img align="center" alt="React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg"> -
+    <img align="center" alt="Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> - 
+   <img align="center" alt="Ts" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> -
   <img align="center" alt="JEST" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg">
 
   
@@ -36,7 +39,7 @@ I'm 24 years old and I'm a System Development Analysis student. I'm currently a 
 
  <div>
   <a href="https://github.com/LuisDouglas963">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisDouglas963&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDouglas963&layout=compact&langs_count=7&theme=tokyonight"/>
   
    
